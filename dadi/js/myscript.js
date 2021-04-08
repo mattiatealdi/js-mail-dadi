@@ -19,5 +19,4 @@ if(numPlayer > numComputer){
     document.getElementById('msg').innerHTML = computerWins;
 }else{
     document.getElementById('msg').innerHTML = tie;
-
 }
